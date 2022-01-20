@@ -77,6 +77,9 @@ files:
     Title or description in returned dict do not seem to be correct.\")\n\n\nif __name__\
     \ == '__main__':\n    WebScraperTest().run_tests()\n"
   learner_created: false
+- name: stage_2.html
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/11756#comment
-status: Unchecked
+status: Solved
 record: -1
